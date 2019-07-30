@@ -420,7 +420,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 15px;
   line-height: 40px;
   font-weight: 600;
-  color: #333333;
+  color: #f5f5f5;
   text-transform: capitalize;
   position: relative;
 }
@@ -499,7 +499,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
-  color: #655E7A;
+  color: #f5f5f5;
 }
 #portfolio-work .block .portfolio-contant ul img {
   width: 100%;
@@ -680,7 +680,7 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 60px;
   background: #47424C;
   border: none;
-  color: #fff;
+  color: #f5f5f5;
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
 }
@@ -766,7 +766,7 @@ font header .navbar-default .navbar-nav li a:hover {
 .heading p {
   font-size: 18px;
   line-height: 40px;
-  color: #292929;
+  color: #f5f5f5;
   font-weight: 300;
 }
 /*---------------------------*/
@@ -782,10 +782,10 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #f5f5f5;
 }
 footer a {
-  color: #595959;
+  color: #f5f5f5;
 }
 footer .footer-manu {
   padding-bottom: 25px;
