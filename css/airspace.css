@@ -100,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/doughnutflip.png") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 0% 0%;
+  background-position: 60% 0%;
   padding: 350px 0 90px 0;
   position: relative;
 }
