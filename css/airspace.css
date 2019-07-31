@@ -100,7 +100,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/doughnut2.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: -1% 0%;
+  background-position: 0% 0%;
   padding: 350px 0 90px 0;
   position: relative;
 }
